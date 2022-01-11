@@ -1,0 +1,29 @@
+{
+    "name": "Pavithiraa",
+    "dob": "01-mar-2000",
+    "nationality": "India",
+    "contact": 8838700579,
+    "emailID": "hrpavithraa2000@gmail.com",
+    "education": {
+      "graduation": {
+        "collegeName": "GCE,Salem",
+        "department": "metallurgy",
+        "year": "2017-2021",
+        "CGPA": 7.9
+      }
+    },
+    "projects": [
+      {
+        "title": "project 1",
+        "desc": "detailed explaination",
+        "startDate": "20-mar-2021",
+        "endDate": "24-april-2021"
+      },
+      {
+        "title": "project 2",
+        "desc": "detailed explaination",
+        "startDate": "24-aug-2021",
+        "endDate": "28-sep-2021"
+      }
+    ]
+  }
